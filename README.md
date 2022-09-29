@@ -7,13 +7,13 @@ Intended for searching repositories by github username and add them to favorites
 ## Examples
 
 Main page.
-![](./github/images/main.png)
+![](./github/public/images/main.png)
 
 Search repos by username.
-![](./github/images/search.png)
+![](./github/public/images/search.png)
 
 You can click on the card to go to gihub page. Also you can add/remove repos to favorites.
-![](./github/images/repos.png)
+![](./github/public/images/repos.png)
 
 Favorites page
-![](./github/images/favorites.png)
+![](./github/public/images/favorites.png)
