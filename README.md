@@ -4,16 +4,22 @@ This test project is based on Github Api.
 
 Intended for searching repositories by github username and add them to favorites.
 
-## Examples
+# Examples
 
-Main page.
-![](./github/public/images/main.png)
+## Main page.
+
+![](./github/images/main.png)
+
+## Search
 
 Search repos by username.
-![](./github/public/images/search.png)
+![](./github/images/search.png)
+
+## Repos
 
 You can click on the card to go to gihub page. Also you can add/remove repos to favorites.
-![](./github/public/images/repos.png)
+![](./github/images/repos.png)
 
-Favorites page
-![](./github/public/images/favorites.png)
+## Favorites page
+
+![](./github/images/favorites.png)
